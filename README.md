@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/carsten-langer/alphametics.svg?branch=master)](https://travis-ci.org/carsten-langer/alphametics)
+
 # Alphametics
 
 Alphametics or [verbal arithmetic](https://en.wikipedia.org/wiki/Verbal_arithmetic) or

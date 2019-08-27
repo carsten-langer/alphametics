@@ -1,8 +1,8 @@
 name := "Alphametic"
 
-version := "0.1"
+version := "0.2"
 
-scalaVersion := "2.12.7"
+scalaVersion := "2.12.9"
 
 libraryDependencies ++= {
   Seq(
